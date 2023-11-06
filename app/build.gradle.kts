@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.minyoungci.healthcareapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.minyoungci.healthcareapp"
